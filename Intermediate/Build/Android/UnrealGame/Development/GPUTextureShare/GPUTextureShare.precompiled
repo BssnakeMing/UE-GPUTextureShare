@@ -1,0 +1,28 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\a\\UnrealGame\\Development\\GPUTextureShare\\Module.GPUTextureShare.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShare.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareBlueprintLibrary.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareReceiver.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareSender.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareSharedMemory.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\GPUTextureShare\\Module.GPUTextureShare.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShare.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareBlueprintLibrary.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareReceiver.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareSender.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareSharedMemory.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\GPUTextureShare\\Module.GPUTextureShare.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShare.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareBlueprintLibrary.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareReceiver.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareSender.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareSharedMemory.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\GPUTextureShare\\Module.GPUTextureShare.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShare.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareBlueprintLibrary.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareReceiver.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareSender.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\GPUTextureShare\\GPUTextureShareSharedMemory.cpp.o"
+	]
+}

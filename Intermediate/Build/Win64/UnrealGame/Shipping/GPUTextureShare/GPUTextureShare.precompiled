@@ -1,0 +1,10 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GPUTextureShare\\Module.GPUTextureShare.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GPUTextureShare\\GPUTextureShare.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GPUTextureShare\\GPUTextureShareBlueprintLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GPUTextureShare\\GPUTextureShareReceiver.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GPUTextureShare\\GPUTextureShareSender.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GPUTextureShare\\GPUTextureShareSharedMemory.cpp.obj"
+	]
+}

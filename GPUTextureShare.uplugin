@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GPUTextureShare",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Bssnake",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "GPUTextureShare",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
